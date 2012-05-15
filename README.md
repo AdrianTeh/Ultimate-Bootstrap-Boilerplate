@@ -7,7 +7,9 @@ To top it off, why not add in a Sticky Footer (http://css-tricks.com/snippets/cs
 
 Quick Start
 ---------------------
-Clone the git repo - git clone git@github.com:AdrianTeh/Ultimate-Bootstrap-Boilerplate.git - or download it
+1. git clone git@github.com:AdrianTeh/Ultimate-Bootstrap-Boilerplate.git
+2. git submodule init
+3. git submodule update
 
 Features
 ---------------------
